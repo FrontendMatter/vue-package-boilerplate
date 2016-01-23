@@ -1,0 +1,23 @@
+{
+  "schema": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Project name"
+    },
+    "library": {
+      "type": "string",
+      "required": true,
+      "label": "Library name"
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "label": "Project description"
+    },
+    "author": {
+      "type": "string",
+      "label": "Author"
+    }
+  }
+}
